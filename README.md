@@ -35,6 +35,7 @@ https://imgur.com/a/OPr6vcA
 Describe any challenges encountered while building the app.
 
 launching camera difficulty until queries in AndroidManifest was added 
+____________________________________________________________________________________________________________________________________________________
 
 part 2: 
 
